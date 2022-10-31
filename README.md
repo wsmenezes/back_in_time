@@ -41,16 +41,11 @@ $ yum install python-devel
     
 ## Installation
 
-The recommended way to install **Back in Time** is using [pyinstaller](https://pyinstaller.org/en/stable/), as follows:
+The recommended way to build and run **Back in Time** is using [pyinstaller](https://pyinstaller.org/en/stable/), as follows:
 
 ```console
+$ git clone https://github.com/wsmenezes/back_in_time.git
 $ pyinstaller back_in_time/__main__.py --onefile --clean --name back_in_time
-```
-
-or from source:
-
-```console
-$ git
 ```
 
 Once it's done just run the binary file: 
