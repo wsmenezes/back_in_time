@@ -83,7 +83,7 @@ a self-contained Python interface to [Redis](https://redis.io/) key-value DB.
 
 ## More Information
 
-**Back in Time** is Free software under the MIT license, see LICENSE.txt for details.
+**Back in Time** is Free software under the MIT license, see [LICENSE.txt](./LICENSE.txt) for details.
 
 ### **Developed by**:
 
