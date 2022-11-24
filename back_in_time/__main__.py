@@ -1,4 +1,4 @@
-# Standard library imports
+# Standard library imports (P)
 from multiprocessing import Process
 import os
 import sys
@@ -63,7 +63,7 @@ redis keys:
 '''
 """
 Due to Pyinstaller peculiarities redislite.Client.RedisMixin._start_redis().redis_executable
-should be changes as follows:
+should be changed as follows:
 
 from: redis_executable = 'redis-server'
 to: redis_executable = './bin/redis-server' 
