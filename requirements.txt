@@ -1,3 +1,4 @@
+altgraph==0.17.3
 async-timeout==4.0.2
 beautifulsoup4==4.11.1
 bs4==0.0.1
@@ -11,11 +12,13 @@ idna==3.4
 itsdangerous==2.1.2
 Jinja2==3.1.2
 MarkupSafe==2.1.1
-packaging==21.3
+packaging==22.0
 psutil==5.9.3
 pycairo==1.21.0
 PyGObject==3.42.2
 PyGObject-stubs==1.0.0
+pyinstaller==6.10.0
+pyinstaller-hooks-contrib==2024.8
 pyparsing==3.0.9
 redis==4.3.4
 redislite==6.2.805324
